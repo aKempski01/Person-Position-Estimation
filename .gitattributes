@@ -1,1 +1,14 @@
 person_head_evo.pt filter=lfs diff=lfs merge=lfs -text
+**.jpg filter=lfs diff=lfs merge=lfs -text
+models/distance/Mdl_xgboost_y_FE filter=lfs diff=lfs merge=lfs -text
+models/distance/Mdl_xgboost_y_LEFT filter=lfs diff=lfs merge=lfs -text
+models/distance/Mdl_xgboost_y_RIGHT filter=lfs diff=lfs merge=lfs -text
+models/distance/Mdl_xgboost_x_FE filter=lfs diff=lfs merge=lfs -text
+models/distance/Mdl_xgboost_x_LEFT filter=lfs diff=lfs merge=lfs -text
+models/distance/Mdl_xgboost_x_RIGHT filter=lfs diff=lfs merge=lfs -text
+models/in_out/fe_in_out.joblib filter=lfs diff=lfs merge=lfs -text
+models/in_out/fe_scaler.joblib filter=lfs diff=lfs merge=lfs -text
+models/in_out/l_in_out.joblib filter=lfs diff=lfs merge=lfs -text
+models/in_out/l_scaler.joblib filter=lfs diff=lfs merge=lfs -text
+models/in_out/r_in_out.joblib filter=lfs diff=lfs merge=lfs -text
+models/in_out/r_scaler.joblib filter=lfs diff=lfs merge=lfs -text
