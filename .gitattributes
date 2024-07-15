@@ -12,3 +12,4 @@ models/in_out/l_in_out.joblib filter=lfs diff=lfs merge=lfs -text
 models/in_out/l_scaler.joblib filter=lfs diff=lfs merge=lfs -text
 models/in_out/r_in_out.joblib filter=lfs diff=lfs merge=lfs -text
 models/in_out/r_scaler.joblib filter=lfs diff=lfs merge=lfs -text
+methods.ipynb filter=lfs diff=lfs merge=lfs -text
